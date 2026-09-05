@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jesterhfs.github.io/sitemap.xml
+Sitemap: https://jesterhfs.github.io/on-hard-flaccid-syndrome/sitemap.xml
