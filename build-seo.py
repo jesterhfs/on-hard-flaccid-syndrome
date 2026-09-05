@@ -5,7 +5,7 @@ Change SITE below and re-run to re-point the whole site at a different domain.
 """
 import io, re, json, os, html
 
-SITE   = 'https://jesterhfs.github.io'
+SITE   = 'https://jesterhfs.github.io/on-hard-flaccid-syndrome'
 AUTHOR = 'Jesterhfs'
 HANDLE = '@jesterhfs'
 BRAND  = 'On Hard Flaccid Syndrome'
